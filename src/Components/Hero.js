@@ -22,7 +22,7 @@ const Hero = () => {
                     </a>
                 </div>
             </div>
-            <img src="/img/avatar.png" alt="Profile" className="hero-image" data-aos="fade-in" />
+            <img src="./img/avatar.png" alt="Profile" className="hero-image" data-aos="fade-in" />
         </section>
 
     );

@@ -39,7 +39,7 @@ const About = () => {
                             I am ready to apply my knowledge and contribute to innovative projects.
                         </p>
                         <div className="about-buttons">
-                            <a href="/docs/Cv_Med_Aziz_Sansa.pdf" download className="btn btn-outline-primary" style={{Color: "#03a9f5" }}>
+                            <a href="./docs/Cv_Med_Aziz_Sansa.pdf" download className="btn btn-outline-primary" style={{Color: "#03a9f5" }}>
                                 <i className="bi bi-file-earmark-text"></i> Download My CV
                             </a>
                         </div>
